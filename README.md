@@ -5,9 +5,10 @@
 
 ## Web design
 
- <my website design image>
+ ![web design]('http://tech2.jpg')
 
 ## Description
+- my website shows 
 ## Setup 
 1. git clone https://github.com/jepkess/git-test.git
 2. cd git-test
