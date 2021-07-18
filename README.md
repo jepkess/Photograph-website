@@ -8,7 +8,7 @@
  ![web design](./tech2.jpg)
 
 ## Description
-- my website shows 
+- my website shows iamges that are used to learn about technology i.e its a learning and teaching resource as well.
 ## Setup 
 1. git clone https://github.com/jepkess/git-test.git
 2. cd git-test
