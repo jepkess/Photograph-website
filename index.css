@@ -13,11 +13,18 @@ ol {
     color: crimson;
 }
 hr{ 
-    background-color: navy;
-    width: 2px ;
+    color: navy;
+    width: 80% ;
 }
 * {
     background-color: whitesmoke;
 }
-
+#footer{
+    font-style: normal;
+    background-color: olivedrab;
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+}
 
