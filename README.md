@@ -21,7 +21,8 @@
 2. CSS
 3. Git
 ## Live  demo
-view [live] (https://jepkess.github.io/Photograph-website/)
+view [live] (https://jepkess.github.io/Photograph-website/
+)
 
 ## License 
  - This project is under [MIT](LICENSE.md)
