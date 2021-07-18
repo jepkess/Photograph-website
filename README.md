@@ -10,7 +10,7 @@
 ## Description
 - my website shows iamges that are used to learn about technology i.e its a learning and teaching resource as well.
 ## Setup 
-1. git clone https://github.com/jepkess/git-test.git
+1. git clone https://github.com/jepkess/Photograph-website.git
 2. cd git-test
 3. open in code editor (Vs code)
 4. open in browser
@@ -21,6 +21,7 @@
 2. CSS
 3. Git
 ## Live  demo
-View [live] (https://jepkess.github.io/git-test/)
+
+
 ## License 
  - This project is under [MIT](LICENSE.md)
