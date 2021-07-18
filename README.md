@@ -5,7 +5,7 @@
 
 ## Web design
 
- ![web design](tech2.jpg)
+ ![web design]('tech2.jpg')
 
 ## Description
 - my website shows 
