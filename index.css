@@ -16,5 +16,8 @@ hr{
     background-color: navy;
     width: 2px ;
 }
+* {
+    background-color: whitesmoke;
+}
 
 
