@@ -18,5 +18,9 @@ p {
 ol {
     color: crimson;
 }
+hr{ 
+    background-color: navy;
+    width: 2px ;
+}
 
 
