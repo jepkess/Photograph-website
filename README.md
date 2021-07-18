@@ -5,7 +5,7 @@
 
 ## Web design
 
- ![web design](./tech2.jpg)
+ 
 
 ## Description
 - my website shows iamges that are used to learn about technology i.e its a learning and teaching resource as well.
