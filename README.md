@@ -13,3 +13,13 @@
 2. cd git-test
 3. open in code editor (Vs code)
 4. open in browser
+
+## Technologies used
+
+1. HTML
+2. CSS
+3. Git
+## Live  demo
+View [live] (https://jepkess.github.io/git-test/)
+## License 
+ - This project is under [MIT](LICENSE.md)
