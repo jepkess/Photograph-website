@@ -4,14 +4,14 @@
 ## By Jepkess
 
 ## Web design
-![landing-page-design](landingpagedesign.jpg)
+https://www.figma.com/file/BKTJmaOGl6eSFjzs4wJhRj/Untitled?node-id=0%3A1
 
  
 
 ## Description
 - my website shows iamges that are used to learn about technology i.e its a learning and teaching resource as well.
 ## Setup 
-In the terminal:
+
 1. git clone https://github.com/jepkess/Photograph-website.git
 2. cd git-test
 3. open in code editor (Vs code)
